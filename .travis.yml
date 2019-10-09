@@ -1,0 +1,12 @@
+# https://github.com/chdhdvgscfsd/assignment
+language: node_js
+
+node_js:
+  - "10.9.0"
+
+cache: npm
+
+before_install:
+  - ls -la
+  - mkdir test
+  - ls -la
