@@ -11,3 +11,6 @@ before_install:
   - mkdir test
   - ls -la
   - pwd
+  -mkdir public
+  -ls -la
+  
