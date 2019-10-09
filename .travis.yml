@@ -1,4 +1,5 @@
 # https://github.com/chdhdvgscfsd/assignment
+# collins Mbuton
 language: node_js
 
 node_js:
@@ -13,4 +14,8 @@ before_install:
   - pwd
   -mkdir public
   -ls -la
-  
+
+install  
+  -ls -la
+  -npm install
+  -ls -la
